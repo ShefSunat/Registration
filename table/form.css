@@ -1,0 +1,43 @@
+.body
+{
+   
+    width:100%;  
+    
+
+}
+#number
+
+{
+    width: 30px; 
+}
+form
+{
+   width: 40%;
+margin: auto;
+    background-color:cornflowerblue;  
+    padding: 10px;
+    color: white;
+
+}
+ 
+p
+{
+width: 100%;
+ display: flex;  
+   
+}
+p label
+{
+ width: 40%;
+text-align: end;
+margin-right: 10px;
+}
+.step2
+{
+    text-align: center;    
+    margin: 5px;
+}
+.step2 i
+{
+color:greenyellow
+}
